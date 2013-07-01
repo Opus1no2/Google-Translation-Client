@@ -1,0 +1,16 @@
+{
+    "name": "google/translation-client",
+    "description": "Google Translation API Client",
+    "authors": [
+        {
+            "name": "Travis Tillotson",
+            "email": "tillotson.travis@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "required": {
+        "php": ">=5.3.2"
+    }
+}
