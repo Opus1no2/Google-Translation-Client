@@ -5,7 +5,7 @@
  *
  * @author - Travis Tillotson <tillotson.travis@gmail.com>
  */
-class Goolge_Translate
+class Google_Translate
 {
     const BASE = 'https://www.googleapis.com';
     const PATH = '/language/translate/';
